@@ -2,15 +2,16 @@
 
 ## 1. Executive Overview
 
-- **Course:** CS331 — Computer Networks
-- **Project Topic:** T001 (Topic 4) — *Per-Process Bandwidth Tracker using eBPF*
-- **Mentors / TAs:** Jainish, Shubham
+- **Course:** CS331: Computer Networks
+- **Project Topic:** T001 (Topic 4): *Per-Process Bandwidth Tracker using eBPF*
+- **Professor:** Sameer Kulkarni
+- **Project TA / Mentor:** Jainish
 
 ### 👥 Team Members
 
 | Roll Number | Name | Contact Email |
 |:---:|---|---|
-| **23110175** | Kasodkar Kshitij Akash | `kshitij.kasodkar@iitgn.ac.in` |
+| **23110175** | Kshitij Kasodkar | `kshitij.kasodkar@iitgn.ac.in` |
 | **23110126** | Hanamanthagouda Policepatil | `hanamanthagouda.p@iitgn.ac.in` |
 | **22110140** | Manav Mangal Jain | `manav.jain@iitgn.ac.in` |
 | **23110338** | Thipparapu Rushitha | `thipparapu.rushitha@iitgn.ac.in` |
