@@ -303,6 +303,6 @@ CN_Project1/
 
 ---
 
-## 📜 License
+## 📄 License
 
 This project is licensed under the **MIT License**.
