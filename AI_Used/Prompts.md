@@ -1,6 +1,6 @@
 # Prompts Given to AI
 
-> **Course:** CS331 — Computer Networks  
+> **Course:** CS331 - Computer Networks  
 > **Project:** Per-Process Bandwidth Tracker using eBPF  
 
 ---
