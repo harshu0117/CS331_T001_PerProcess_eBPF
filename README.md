@@ -4,7 +4,7 @@
 [![Linux eBPF](https://img.shields.io/badge/kernel-eBPF%20%2F%20BCC-orange.svg)](https://ebpf.io/)
 [![Tests](https://img.shields.io/badge/tests-25%20passed-brightgreen.svg)](tests/)
 [![Accuracy](https://img.shields.io/badge/accuracy-100.00%25-success.svg)](tests/test_accuracy.py)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A high-performance, low-overhead Linux network bandwidth tracker powered by **eBPF (Extended Berkeley Packet Filter)**. It tracks and aggregates send/receive network throughput in real-time with per-process attribution, remote IP/port tracking, protocol filtering (TCP/UDP), SQLite historical persistence, an interactive Rich terminal dashboard, and a modern single-page Web UI.
 
@@ -14,7 +14,8 @@ A high-performance, low-overhead Linux network bandwidth tracker powered by **eB
 
 - **Course:** CS331: Computer Networks
 - **Project Topic:** T001 (Topic 4): *Per-Process Bandwidth Tracker using eBPF*
-- **Mentors / TAs:** Jainish, Shubham
+- **Professor:** Sameer Kulkarni
+- **Project TA / Mentor:** Jainish
 
 ### 👥 Team Members
 
@@ -304,4 +305,4 @@ CN_Project1/
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**.
