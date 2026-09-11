@@ -410,18 +410,18 @@ Select a demonstration action:
 
 On Windows or non-root environments, `MockBPFLoader` generates rich, realistic multi-flow network traffic across 12 distinct processes with dynamic bursts, real remote IPs, and mixed TCP/UDP protocols:
 
-1. **`chrome` (PID 1001)** — Web browsing (`TCP 443`, `142.250.190.46`, 25KB - 480KB/s download)
-2. **`spotify` (PID 1002)** — Music streaming (`TCP 443`, `151.101.65.140`, 60KB - 180KB/s download)
-3. **`discord` (PID 1003)** — Voice & chat (`UDP 50001`, `162.159.130.233`, 4KB - 16KB/s)
-4. **`curl` (PID 1004)** — API requests (`TCP 443`, `93.184.216.34`, 10KB - 80KB/s)
-5. **`python` (PID 1005)** — Data / ML pipeline (`TCP 443`, `151.101.0.223`, 80KB - 600KB/s)
-6. **`docker` (PID 1006)** — Container image pull (`TCP 443`, `54.236.113.205`, 120KB - 1.2MB/s)
-7. **`slack` (PID 1007)** — Real-time chat sync (`TCP 443`, `13.249.132.84`, 5KB - 35KB/s)
-8. **`node` (PID 1008)** — Backend microservice (`TCP 443`, `104.16.27.35`, 15KB - 150KB/s)
-9. **`postgres` (PID 1009)** — DB replication (`TCP 5432`, `10.0.0.15`, 10KB - 90KB/s)
-10. **`zoom` (PID 1010)** — Video meeting (`UDP 8801`, `170.114.10.12`, 20KB - 85KB/s bidirectional)
-11. **`steam` (PID 1011)** — Game asset download (`TCP 443`, `23.210.180.50`, 350KB - 2.5MB/s)
-12. **`dnsmasq` (PID 2045)** — DNS lookup queries (`UDP 53`, `8.8.8.8`)
+1. **`chrome` (PID 1001)**: Web browsing (`TCP 443`, `142.250.190.46`, 25KB - 480KB/s download)
+2. **`spotify` (PID 1002)**: Music streaming (`TCP 443`, `151.101.65.140`, 60KB - 180KB/s download)
+3. **`discord` (PID 1003)**: Voice & chat (`UDP 50001`, `162.159.130.233`, 4KB - 16KB/s)
+4. **`curl` (PID 1004)**: API requests (`TCP 443`, `93.184.216.34`, 10KB - 80KB/s)
+5. **`python` (PID 1005)**: Data / ML pipeline (`TCP 443`, `151.101.0.223`, 80KB - 600KB/s)
+6. **`docker` (PID 1006)**: Container image pull (`TCP 443`, `54.236.113.205`, 120KB - 1.2MB/s)
+7. **`slack` (PID 1007)**: Real-time chat sync (`TCP 443`, `13.249.132.84`, 5KB - 35KB/s)
+8. **`node` (PID 1008)**: Backend microservice (`TCP 443`, `104.16.27.35`, 15KB - 150KB/s)
+9. **`postgres` (PID 1009)**: DB replication (`TCP 5432`, `10.0.0.15`, 10KB - 90KB/s)
+10. **`zoom` (PID 1010)**: Video meeting (`UDP 8801`, `170.114.10.12`, 20KB - 85KB/s bidirectional)
+11. **`steam` (PID 1011)**: Game asset download (`TCP 443`, `23.210.180.50`, 350KB - 2.5MB/s)
+12. **`dnsmasq` (PID 2045)**: DNS lookup queries (`UDP 53`, `8.8.8.8`)
 
 ---
 
