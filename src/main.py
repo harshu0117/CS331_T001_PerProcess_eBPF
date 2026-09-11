@@ -15,9 +15,11 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 try:
     from rich.console import Console
     HAVE_RICH = True
+    console = Console()
 except ImportError:
     HAVE_RICH = False
     Console = None  # type: ignore
+    console = None  # type: ignore
 
 from src.config import TrackerConfig
 from src.core.aggregator import FlowAggregator
