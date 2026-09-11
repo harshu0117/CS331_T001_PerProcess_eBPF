@@ -1,6 +1,6 @@
 # AI Usage Summary
 
-> **Course:** CS331 — Computer Networks  
+> **Course:** CS331 - Computer Networks  
 > **Project:** Per-Process Bandwidth Tracker using eBPF  
 > **Primary AI Tool:** Google Antigravity CLI (`agy`) powered by Gemini  
 
