@@ -12,15 +12,15 @@ A high-performance, low-overhead Linux network bandwidth tracker powered by **eB
 
 ## 🎓 Course & Project Information
 
-- **Course:** CS331 — Computer Networks
-- **Project Topic:** T001 (Topic 4) — *Per-Process Bandwidth Tracker using eBPF*
+- **Course:** CS331: Computer Networks
+- **Project Topic:** T001 (Topic 4): *Per-Process Bandwidth Tracker using eBPF*
 - **Mentors / TAs:** Jainish, Shubham
 
 ### 👥 Team Members
 
 | Roll Number | Name | Contact Email |
 |:---:|---|---|
-| **23110175** | Kasodkar Kshitij Akash | `kshitij.kasodkar@iitgn.ac.in` |
+| **23110175** | Kshitij Kasodkar | `kshitij.kasodkar@iitgn.ac.in` |
 | **23110126** | Hanamanthagouda Policepatil | `hanamanthagouda.p@iitgn.ac.in` |
 | **22110140** | Manav Mangal Jain | `manav.jain@iitgn.ac.in` |
 | **23110338** | Thipparapu Rushitha | `thipparapu.rushitha@iitgn.ac.in` |
@@ -132,7 +132,7 @@ Then open **[http://localhost:8080](http://localhost:8080)** in your browser!
 
 ```text
 ======================================================================
-  🚀 eBPF Real-Time Network Usage Tracker — Web Dashboard
+  🚀 eBPF Real-Time Network Usage Tracker: Web Dashboard
   🌐 Open your browser at: http://localhost:8080
 ======================================================================
 ```
