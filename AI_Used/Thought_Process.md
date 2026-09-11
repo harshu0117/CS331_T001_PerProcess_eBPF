@@ -1,6 +1,6 @@
 # AI Thought Process & Workflow
 
-> **Course:** CS331 — Computer Networks  
+> **Course:** CS331 - Computer Networks  
 > **Project:** Per-Process Bandwidth Tracker using eBPF  
 
 ---
